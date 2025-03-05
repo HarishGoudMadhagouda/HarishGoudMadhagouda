@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Harishgoud Madhagouda]  
 
-<!--
-**HarishGoudMadhagouda/HarishGoudMadhagouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Principal SDET | Automation Architect 
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a **Principal Software Development Engineer in Test (SDET)** with a passion for building scalable, reliable, and efficient automation frameworks. My expertise lies in designing test strategies, implementing CI/CD pipelines, and ensuring software quality across complex systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Java | Python 
+- **Test Automation:** Selenium | Playwright | Robot Framework
+- **Performance Testing:** JMeter 
+- **API Testing:** Postman | RestAssured 
+- **CI/CD & DevOps:** Jenkins | GitHub Actions | Azure DevOps | Docker | Kubernetes
+- **Cloud & Infrastructure:** AWS | Azure | Google Cloud
+- **Agile & Tools:** Jira | TestRail | Cucumber | BDD | TDD
+
+---
+
+## 📈 My Work & Contributions
+- Architecting and developing robust **test automation frameworks**.
+- Implementing **CI/CD pipelines** to enhance release velocity and quality.
+- Leading **SDET teams** and mentoring engineers on best practices.
+
+---
+## 📫 Let's Connect!
+🔗 [LinkedIn]([#](https://www.linkedin.com/in/harishgoud-madhagouda-b7825337/))  
+🐦 [Twitter](#)  
+📧 [Email](m.harishgoud@gmail.com,m.harishgoud@hotmail.com)  
+
+---
+
+Thanks for visiting my profile! Happy Coding 🚀
