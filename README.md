@@ -24,9 +24,8 @@ Welcome to my GitHub profile! I'm a **Principal Software Development Engineer in
 
 ---
 ## 📫 Let's Connect!
-🔗 [LinkedIn]([#](https://www.linkedin.com/in/harishgoud-madhagouda-b7825337/))  
-🐦 [Twitter](#)  
-📧 [Email](m.harishgoud@gmail.com,m.harishgoud@hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harishgoud-madhagouda-b7825337/)   
+📧 [Email](m.harishgoud@gmail.com)  
 
 ---
 
