@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a **Principal Software Development Engineer in
 
 ## 🛠️ Technical Skills
 - **Programming:** Java | Python 
-- **Test Automation:** Selenium | Playwright | Robot Framework
+- **Test Automation:** Selenium | Playwright | Robot Framework | Pytest | TestNG 
 - **Performance Testing:** JMeter 
 - **API Testing:** Postman | RestAssured 
 - **CI/CD & DevOps:** Jenkins | GitHub Actions | Azure DevOps | Docker | Kubernetes
 - **Cloud & Infrastructure:** AWS | Azure | Google Cloud
-- **Agile & Tools:** Jira | TestRail | Cucumber | BDD | TDD
+- **Agile & Tools:** Jira | Confluence | SVN | MKS | HP ALAM | Zephyr | Xray for Jira |  | Cucumber | BDD | TDD
 
 ---
 
